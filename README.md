@@ -1,7 +1,7 @@
 # react-redux-webpack2
 🔥 react, redux, webpack2, ES6/7, Router4, hot reloader
 
-#Idea
+# Description #
 I couldn't find boilerplate for simple react-redux application with good filestructure so I decided to create my own.
 
 Todo:
